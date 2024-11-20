@@ -9,7 +9,11 @@ Comandos:
 - npm init es6 -y
 - npm install express
 - node server.js
-AIzaSyDMGDSd6yfkxSFgsDI2Q2VIj6-iGZpIyxY
+- npm install mongodb
+
+Senhas:
+- AIzaSyDMGDSd6yfkxSFgsDI2Q2VIj6-iGZpIyxY
+- jlXwFUwoeWA5AFzW
 
 Conceitos:
 - Servidor: é um computador onde tem recursos que alguém quer acessar.
